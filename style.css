@@ -137,6 +137,8 @@ nav ul li ul li a:hover{
     display: block;
   margin-left: auto;
   margin-right: auto;
+border: 2px solid #c70039;
+border-radius: 10px;
 }
 
 .box{
